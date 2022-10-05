@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/menjadi-react-developer/challenge-promises#readme",
   "devDependencies": {
-    "jest": "^28.1.0"
+    "jest": "^28.1.3"
   }
 }
